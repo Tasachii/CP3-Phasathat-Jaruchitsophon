@@ -1,0 +1,10 @@
+num1 = 42
+num2 = 24
+sumadd = num1 + num2
+summi = num1 - num2
+summul = num1 * num2
+sumdi = num1 / num2
+print(f"{num1} + {num2} = {sumadd}")
+print(f"{num1} - {num2} = {summi}")
+print(f"{num1} * {num2} = {summul}")
+print(f"{num1} / {num2} = {sumdi}")
